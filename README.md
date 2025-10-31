@@ -16,7 +16,7 @@ python train_others.py --model GCN --hidden 64 --dataset dataset --labelrate lab
 
 - **dataset:**  including [Cora, Citeseer, Pubmed, CoraFull], required.
 - **labelrate:** including [20, 40, 60], required.
-
+```
 e.g.,
 
 ```
