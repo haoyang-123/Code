@@ -22,7 +22,7 @@ e.g.,
 ```
 python train_others.py --model GCN --hidden 64 --dataset Cora --labelrate 20 --stage 1
 python train_others.py --model GAT --hidden 8 --dataset Cora --labelrate 20 --stage 1 --dropout 0.5 --lr 0.005
-
+```
 
 ### Temperature scaling & Matring Scaling
 
